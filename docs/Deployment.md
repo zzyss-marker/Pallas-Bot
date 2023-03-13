@@ -122,7 +122,3 @@ git pull origin master --autostash
 
 这些功能对设备性能要求较高，最好有独立显卡，请参考 [部署教程 AI 篇](AIDeployment.md)
 
-## 开发者群
-
-QQ 群: [牛牛听话！](https://jq.qq.com/?_wv=1027&k=tlLDuWzc)  
-欢迎加入~
