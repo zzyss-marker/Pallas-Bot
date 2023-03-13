@@ -59,13 +59,6 @@
 - `牛牛轮盘` & `牛牛开枪`：需要给牛牛管理员才能使用，试试你就知道是啥功能了.jpg
 - 随机修改自己的群名片为近期发言的人，夺舍！期望时间 8 小时一次
 
-## 怎么把牛牛拉到自己的群里呢？
-
-~~加好友，再邀请加群，即可。牛牛都会自动同意的~~
-
-牛牛的号天天被冻结，所以御坂牛牛计划正式启动（）
-
-详情请加 [牛牛调教群](#qq群)，在群文件的在线表格里挑一只你喜欢的牛牛牵走~
 
 ## 题外话
 
@@ -96,19 +89,7 @@
 [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.  
 [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech): Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.  
 
-### 贡献者
 
-感谢各位大佬！
-
-[![Contributors](https://contributors-img.web.app/image?repo=MistEO/Pallas-Bot)](https://github.com/MistEO/Pallas-Bot/graphs/contributors)
-
-## QQ群
-
-~~牛牛调教一群: 831322617 被腾讯封了 orz~~  
-~~牛牛调教一群: 765213099 又被封了（恼~~  
-~~牛牛调教四群: 717508273 。。。~~  
-牛牛调教五群：228620837  
-开发者群: 716692626
 
 ## 打赏
 
